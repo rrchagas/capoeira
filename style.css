@@ -105,7 +105,7 @@ p {
 a.button {
     display: inline-block;
     color: #faefff;
-    border: 2px solid #f37b83;
+    border: 2px solid #eab131;
     text-align: center;
     padding: 12px 38px;
     cursor: pointer;
@@ -122,7 +122,7 @@ a.button:active {
 
 a.button:hover {
     color: white;
-    background-color: #f37b83;
+    background-color: #eab131;
 }
 
 
@@ -149,7 +149,7 @@ a.button:hover {
 }
 
 .content-left::-webkit-scrollbar-thumb {
-    background-color: #f37b83;
+    background-color: #eab131;
 }
 
 .content-left-wrapper {
@@ -300,7 +300,7 @@ a.button:hover {
 .my-info-title {
     font-size: 12px;
     line-height: 100%;
-    color: #f37b83;
+    color: #eab131;
     letter-spacing: 5px;
 }
 
@@ -423,7 +423,7 @@ img.my-info-signature {
 
 .menu-holder {
     padding: 120px 50px 0 75px;
-    background-color: #f37b83;
+    background-color: #eab131;
     width: 380px;
     height: 100%;
     min-height: 100vh;
@@ -572,7 +572,7 @@ h1.entry-title {
     font-size: 100px;
     line-height: 94px;
     font-weight: 800;
-    color: #f37b83;
+    color: #eab131;
 }
 
 .site-info {
@@ -623,7 +623,7 @@ h1.entry-title {
 .service-title {
     font-size: 28px;
     line-height: 42px;
-    color: #F37b83;
+    color: #eab131;
     font-weight: 700;
 }
 
@@ -672,7 +672,7 @@ h1.entry-title {
 .category-filter-icon {
     width: 20px;
     height: 3px;
-    background-color: #f37b83;
+    background-color: #eab131;
     float: right;
     transition: width .3s ease;
 }
@@ -687,7 +687,7 @@ h1.entry-title {
     display: block;
     width: 10px;
     height: 3px;
-    background-color: #f37b83;
+    background-color: #eab131;
     transform: translate(-5px,8px);
     transition: transform .3s ease;
 }
@@ -702,7 +702,7 @@ h1.entry-title {
     display: block;
     width: 10px;
     height: 3px;
-    background-color: #f37b83;
+    background-color: #eab131;
     transform: translate(10px,11px);
     transition: transform .3s ease;
 }
@@ -734,7 +734,7 @@ h1.entry-title {
 }
 
 .category-filter-list .button.is-checked {
-    color: #f37b83;
+    color: #eab131;
 }
 
 .isotope.no-transition,
@@ -801,7 +801,7 @@ h1.entry-title {
     top: 0;
     z-index: 1;
     font-size: 20px;
-    background-color: #f37b83;
+    background-color: #eab131;
     padding: 20px;
     transform: translateX(-100%);
     transition: transform .3s ease;
@@ -1048,7 +1048,7 @@ div.pp_default .pp_description {
 }
 
 .owl-theme .owl-dots .owl-dot.active span {
-    background-color: #f37b83;
+    background-color: #eab131;
 }
 
 
@@ -1078,7 +1078,7 @@ li.timeline-event:before {
     width: 3px;
     height: calc(100% - 20px);
     position: absolute;
-    background-color: #f37b83;
+    background-color: #eab131;
     left: -30px;
     top: 51px;
 }
@@ -1099,7 +1099,7 @@ li.timeline-event span.timeline-circle:after {
     left: -8px;
     top: 11px;
     border-radius: 90%;
-    background-color: #f37b83;    
+    background-color: #eab131;    
     opacity: 0;
     transition: opacity .3s;
 }
@@ -1120,7 +1120,7 @@ span.timeline-circle:before {
     width: 35px;
     height: 35px;
     border-radius: 90%;
-    border: 3px solid #f37b83;
+    border: 3px solid #eab131;
     position: absolute;
     left: -16px;
     top: 3px;
@@ -1133,7 +1133,7 @@ span.timeline-circle:before {
     left: -115px;
     top: 2px;
     transition: .3s;
-    color: #f37b83;
+    color: #eab131;
     font-weight: 700;
 }
 
@@ -1181,13 +1181,13 @@ span.skill-circle-num {
     transform: translate(-50%, -50%);
     font-size: 45px;
     font-weight: 700;
-    color: #f37b83;
+    color: #eab131;
     letter-spacing: -1px;
 }
 
 p.skill-circle-text {
     font-size: 22px;
-    color: #f37b83;
+    color: #eab131;
     text-align: center;
     padding-top: 20px;
     letter-spacing: -1px;
@@ -1239,7 +1239,7 @@ p.skill-circle-text {
 .skill-fill {
     width: 10%;
     height: 22px;
-    background-color: #f37b83;
+    background-color: #eab131;
     transform: translateY(-5px);
     transition: width .7s;
 }
@@ -1256,7 +1256,7 @@ p.skill-circle-text {
 
 .contact-form {
     padding: 65px;
-    background-color: #f37b83;
+    background-color: #eab131;
 }
 
 .contact-form p {
