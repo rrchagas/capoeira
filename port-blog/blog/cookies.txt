@@ -1,5 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-.cocobasic.com	TRUE	/	FALSE	1999999999	__cfduid	df0099254756adef9dc40583c780f90a21615828279
-demo.cocobasic.com	TRUE	/	FALSE	1999999999	SameSite	Lax
-
