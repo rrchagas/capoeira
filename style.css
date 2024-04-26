@@ -256,7 +256,7 @@ a.button:hover {
     width: 25px;
     position: relative;
     height: 30px;
-    color: #c6646b;
+    color: #eab131;
 }
 
 .current-num span {
@@ -325,7 +325,7 @@ img.my-info-signature {
 
 .current-big-num {
     font-size: 160px;
-    -webkit-text-stroke: 3px #c6646b;
+    -webkit-text-stroke: 0px #fff;
     color: transparent;
     font-weight: 800;
     line-height: 100%;
@@ -347,7 +347,7 @@ img.my-info-signature {
     margin-left: -20px;
     bottom: 25px;
     margin-top: -35px;
-    box-shadow: inset 0 0 0 3px #c6646b;
+    box-shadow: inset 0 0 0 3px #fff;
     border-radius: 25px;
     transition: right .5s;
 }
@@ -356,7 +356,7 @@ img.my-info-signature {
     content: '';
     width: 8px;
     height: 8px;
-    background: #c6646b;
+    background: #fff;
     margin-left: -4px;
     top: 8px;
     border-radius: 4px;
@@ -373,7 +373,7 @@ img.my-info-signature {
     content: "";
     position: absolute;
     z-index: -1;
-    background-color: #362b2e;
+    background-color: #eab131;
     width: 58px;
     height: 80px;
     border-radius: 25px;
@@ -464,7 +464,7 @@ img.my-info-signature {
     display: block;
     width: 0;
     height: 16px;
-    background-color: #c6646b;
+    background-color: #735d62;
     transition: width .3s;
     position: absolute;
     left: -5%;
