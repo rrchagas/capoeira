@@ -54,7 +54,8 @@ body {
 
 body a {
     text-decoration: none;
-    color: #000000;    
+    color: #eab131;
+	
     transition: color .3s linear;
 }
 
