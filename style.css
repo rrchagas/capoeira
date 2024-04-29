@@ -833,6 +833,7 @@ h1.entry-title {
     color: #faefff;
     margin-bottom: 0;
     padding-bottom: 5px;
+
 }
 
 .portfolio-cat {
@@ -844,11 +845,11 @@ h1.entry-title {
 .portfolio-cat:before {
     content: "";
     display: inline-block;
-    width: 25px;
-    height: 1px;
+    width: 0px;
+    height: 0px;
     background-color: #faefff;
-    vertical-align: 4px;
-    margin-right: 5px;
+    vertical-align: 0px;
+    margin-right: 0px;
 }
 
 .portfolio-load-content-holder {
