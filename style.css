@@ -47,7 +47,7 @@ body {
     font-size: 15px;    
     line-height: 30px;
     font-weight: 400;       
-    color: #a88590;
+    color: #af9599;
     background-color: #fff;
     overflow-x: hidden;
 }
@@ -566,7 +566,7 @@ h2.section-title {
 
 .site-des {
     font-size: 28px;
-    color: #492d31;
+    color: #af9599;
 }
 
 h1.entry-title {
@@ -587,7 +587,7 @@ h1.entry-title {
 
 .social-links a {
     font-size: 12px;    
-    color: #492D31;
+    color: #af9599;
     letter-spacing: 5px;
     margin-right: 30px;
 }
