@@ -306,7 +306,7 @@ a.button:hover {
 }
 
 .my-info-content {
-    color: #faefff;
+    color: #faefff; display: block; line-height:1;
 }
 
 img.my-info-signature {
