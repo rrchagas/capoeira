@@ -24,12 +24,12 @@
     1. 3rd Part CSS Libraries
 ====================================== */
 
-@import url("css/clear.css");
-@import url("css/sm-clean.css");
-@import url("css/owl.carousel.min.css");
-@import url("css/owl.theme.default.min.css");
-@import url("css/prettyPhoto.css");
-@import url("css/common.css");
+@import url("../css/clear.css");
+@import url("../css/sm-clean.css");
+@import url("../css/owl.carousel.min.css");
+@import url("../css/owl.theme.default.min.css");
+@import url("../css/prettyPhoto.css");
+@import url("../css/common.css");
 
 
 /* ===================================
@@ -558,7 +558,7 @@ h2.section-title {
 .home-right-part {
     flex: 1 0 0;
     height: 100%;
-    background-image: url("https://capoeira.peita.com.br/acae/images/home.jpg);
+    background-image: url(../images/home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -879,7 +879,7 @@ h1.entry-title {
 }
 
 .close-icon {
-    background-image: url(images/close-left-arrow.png);
+    background-image: url(../images/close-left-arrow.png);
     background-repeat: no-repeat;
     width: 70px;
     height: 70px;
@@ -922,7 +922,7 @@ div.pp_default .pp_loaderIcon {
 }
 
 div.pp_default a.pp_arrow_previous {
-    background-image: url(images/nav_left.png);
+    background-image: url(../images/nav_left.png);
     background-size: 20px 20px;    
     width: 20px;
     height: 20px;
@@ -934,7 +934,7 @@ div.pp_default a.pp_arrow_previous {
 }
 
 div.pp_default a.pp_arrow_next {
-    background-image: url(images/nav_right.png);
+    background-image: url(../images/nav_right.png);
     background-size: 20px 20px;    
     width: 20px;
     height: 20px;
@@ -955,7 +955,7 @@ div.pp_default a.pp_arrow_next:hover {
 }
 
 div.pp_default .pp_close {
-    background-image: url(images/close.png);
+    background-image: url(../images/close.png);
     background-size: 30px 30px;
     margin-top: 5px;
     text-indent: -99999999px;
@@ -964,7 +964,7 @@ div.pp_default .pp_close {
 }
 
 div.pp_default .pp_next:hover {
-    background: url(images/nav_right.png);
+    background: url(../images/nav_right.png);
     cursor: pointer;
     background-repeat: no-repeat;
     background-position: 95% 50%;
@@ -972,7 +972,7 @@ div.pp_default .pp_next:hover {
 }
 
 div.pp_default .pp_previous:hover {
-    background: url(images/nav_left.png);
+    background: url(../images/nav_left.png);
     cursor: pointer;
     background-repeat: no-repeat;
     background-position: 5% 50%;
