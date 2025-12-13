@@ -1373,9 +1373,9 @@ p.contact-submit-holder {
     }
 
     .menu-holder {
-        width: 320px;
-        transform: translateX(-320px);
-        padding-left: 55px;
+    width: 205px;
+    transform: translateX(-320px);
+    padding-left: 55px;
     }
 
     .big-num {
